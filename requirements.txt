@@ -19,7 +19,7 @@ BD Pass Requirements:
     
     ii) Login Process
         - Username can be "NID number" , "Mobile Number" or "Email Address"
-        - Password / Or Fingerprint if (Fingerprint is provided will registering
+        - Password / Or Fingerprint if (Fingerprint is provided while registering
         
         Then 
 
@@ -39,6 +39,6 @@ BD Pass Requirements:
 
 *) Feature to add passport data / passport number, but it will match NID number first
    before adding
-   
+
 
 # More Rquirements will be added on the way ...
