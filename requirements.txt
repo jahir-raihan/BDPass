@@ -1,0 +1,44 @@
+BD Pass Requirements: 
+
+
+*) Create an Account System
+    i) Registration Process 
+        - Scan NID Card Image / Or take NID number manually
+        - Verify NID user with face verification just like BD NID APP
+        
+        Then
+
+        - If possible match Fingerprint Data
+        - Take a new phone number and email address (opt)
+        - Setup password / verify password
+
+        Then
+
+        - Automatically Login the user and show only 1 page containing their 
+          data only
+    
+    ii) Login Process
+        - Username can be "NID number" , "Mobile Number" or "Email Address"
+        - Password / Or Fingerprint if (Fingerprint is provided will registering
+        
+        Then 
+
+        - Show only 1 page containing their data only after login
+
+*) Create a Stunning & user friendly UI
+
+*) Create a smooth & fast loading website
+
+*) Provide API for Authentication purpose on toher Government websites / APps
+    - But API kye & headers will be verified every time
+
+*) Provide fast API for higher authority for official verification with less loading 
+   time
+
+*) The itself will be Dynamically updated if the NID changes
+
+*) Feature to add passport data / passport number, but it will match NID number first
+   before adding
+   
+
+# More Rquirements will be added on the way ...
