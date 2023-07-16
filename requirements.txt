@@ -2,28 +2,33 @@ BD Pass Requirements:
 
 
 *) Create an Account System
+
     i) Registration Process 
-        - Scan NID Card Image / Or take NID number manually
-        - Verify NID user with face verification just like BD NID APP
-        
-        Then
 
-        - If possible match Fingerprint Data
-        - Take a new phone number and email address (opt)
-        - Setup password / verify password
+        * - i) First register the user with Email/ Phone and Password
+        * - i) Setup a Fingerprint based login system (opt)
 
-        Then
+        Then inside the Application
 
-        - Automatically Login the user and show only 1 page containing their 
-          data only
+            - To verify your account usability 
+
+                - Scan NID Card Image
+                - Verify NID user with face verification just like BD NID APP
+                - Verify with password
+                - Add the documents to database
+
+            - Optional Documents
+
+                - Birth Certificate
+                - Passport
+                - Graduation Certificates / School / College / University
+
     
     ii) Login Process
         - Username can be "NID number" , "Mobile Number" or "Email Address"
         - Password / Or Fingerprint if (Fingerprint is provided while registering
         
-        Then 
-
-        - Show only 1 page containing their data only after login
+       
 
 *) Create a Stunning & user friendly UI
 
