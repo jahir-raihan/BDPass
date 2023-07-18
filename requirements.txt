@@ -34,8 +34,8 @@ BD Pass Requirements:
 
 *) Create a smooth & fast loading website
 
-*) Provide API for Authentication purpose on toher Government websites / APps
-    - But API kye & headers will be verified every time
+*) Provide API for Authentication purpose on other Government websites / Apps
+    - But API key & headers will be verified every time
 
 *) Provide fast API for higher authority for official verification with less loading 
    time
@@ -51,7 +51,7 @@ BD Pass Requirements:
     - Login / Register Navigation
     - Login 
     - Register
-    - Home page (Account Mangement)
+    - Home page (Account Management)
     - Verify Account with NID 
         - Take pictures of NID card both sides
         - Verify your face identity
