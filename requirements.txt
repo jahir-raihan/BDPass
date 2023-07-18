@@ -46,4 +46,38 @@ BD Pass Requirements:
    before adding
 
 
-# More Rquirements will be added on the way ...
+*) Required pages
+
+    - Login / Register Navigation
+    - Login 
+    - Register
+    - Home page (Account Mangement)
+    - Verify Account with NID 
+        - Take pictures of NID card both sides
+        - Verify your face identity
+        - Finish up verifying 
+
+    - Other documents
+
+        - Birth Certificate
+        - Passport
+        - Academic Certificates
+        - Licence
+        - Permanent Chiarman Certificate
+        - Other will be added if required
+    
+    - Manage Account
+        
+        - Change password
+        - Change your picture 
+            - Verify your identity with password
+            - Changed successfully
+        
+    - Quick Share / Verify
+        
+        - QR Code 
+        - Reference Number / ID 
+    
+
+
+
