@@ -26,7 +26,7 @@ BD Pass Requirements:
     
     ii) Login Process
         - Username can be "NID number" , "Mobile Number" or "Email Address"
-        - Password / Or Fingerprint if (Fingerprint is provided while registering
+        - Password 
         
        
 
@@ -78,6 +78,3 @@ BD Pass Requirements:
         - QR Code 
         - Reference Number / ID 
     
-
-
-
